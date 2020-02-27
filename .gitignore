@@ -1,0 +1,4 @@
+# Ignore the pybox2d folder
+/pybox2d
+/.vscode
+/__pycache__
